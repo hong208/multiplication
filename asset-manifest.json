@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/multiplication/static/css/main.1adc99c4.css",
+    "main.js": "/multiplication/static/js/main.511916af.js",
+    "static/js/787.e842f221.chunk.js": "/multiplication/static/js/787.e842f221.chunk.js",
+    "index.html": "/multiplication/index.html",
+    "main.1adc99c4.css.map": "/multiplication/static/css/main.1adc99c4.css.map",
+    "main.511916af.js.map": "/multiplication/static/js/main.511916af.js.map",
+    "787.e842f221.chunk.js.map": "/multiplication/static/js/787.e842f221.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1adc99c4.css",
+    "static/js/main.511916af.js"
+  ]
+}
